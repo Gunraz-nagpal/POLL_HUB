@@ -43,7 +43,7 @@
   content: "";
   height: 3px;
   width: 0%;
-  background: rgb(208, 202, 202);
+  background: rgb(110, 252, 102);
   position: absolute;
   left: 0;
   bottom: -10px;
@@ -89,7 +89,7 @@ button {
 }
 
 span {
-  background: rgb(208, 202, 202);
+  background: rgb(252, 252, 322);
   height: 100%;
   width: 0;
   border-radius: 25px;
